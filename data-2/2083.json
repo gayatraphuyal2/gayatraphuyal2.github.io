@@ -1,0 +1,27 @@
+{
+  "year": 2083,
+  "ttl_hours": 25,
+  "days": {
+    "1-11": {
+      "holiday": [],
+      "national": []
+    },
+    "1-19": {
+      "holiday": [],
+      "national": []
+    },
+    "1-9": {
+      "holiday": [],
+      "national": []
+    },
+     "1-2": {
+      "holiday": [],
+      "national": []
+    },
+     "1-8": {
+      "holiday": [],
+      "national": []
+    }
+    
+  }
+}
