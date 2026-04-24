@@ -3,7 +3,7 @@
   "ttl_hours": 25,
   "days": {
     "1-11": {
-      "holiday": [],
+      "holiday": ["testtttt],
       "national": []
     },
     "1-19": {
