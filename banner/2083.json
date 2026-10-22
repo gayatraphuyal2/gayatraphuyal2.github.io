@@ -1,0 +1,9 @@
+{
+  "default": "https://gayatraphuyal2.github.io/banner/img/default.jpg",
+  "ekadashi": "https://gayatraphuyal2.github.io/banner/img/ekadashi.jpg",
+  "days": {
+    "7-6": "https://gayatraphuyal2.github.io/banner/img/dashain.jpg",
+    "7-15": "https://gayatraphuyal2.github.io/banner/img/tihar.jpg",
+    "7-17": "https://gayatraphuyal2.github.io/banner/img/tihar2.jpg"
+  }
+}
