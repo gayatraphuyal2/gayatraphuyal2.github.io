@@ -1,1 +1,12 @@
 
+{
+  "banners": [
+    {
+      "id": "tihar-2083",
+      "from": "2083-07-25",
+      "to": "2083-07-29",
+      "image": "https://gayatraphuyal2.github.io/data/banners/tihar-2083.gif",
+      "ratio": 3.2
+    }
+  ]
+}
